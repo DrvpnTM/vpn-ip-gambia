@@ -1,18 +1,17 @@
-# VPN IP Gambia — Dr VPN
+# VPN IP Gambia — Fast, Secure VPN for Gambia
 
-**VPN IP Gambia** is a fast, secure and free VPN for Android. Get a **Gambia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Gambia** is a free, open-source, ad-free VPN app for Android, built for users in Gambia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Gambia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_gm_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-gambia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Gambia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Gambia, Gambia VPN, VPN IP Gambia, Gambia IP address, free VPN Gambia, buy VPN Gambia, fast VPN Gambia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Gambia, free VPN Gambia, fast VPN, VPN IP Gambia, Android VPN, unblock websites Gambia.</sub>
